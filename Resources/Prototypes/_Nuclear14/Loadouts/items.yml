@@ -247,6 +247,9 @@
   id: Pen
   category: Items
   cost: 0
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: N14LoadoutPen
   items:
     - Pen
 
@@ -254,6 +257,9 @@
   id: LuxuryPen
   category: Items
   cost: 0
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: N14LoadoutPen
   items:
     - LuxuryPen
 
@@ -261,6 +267,9 @@
   id: Paper
   category: Items
   cost: 0
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: N14LoadoutPaper
   items:
     - Paper
 
@@ -268,6 +277,9 @@
   id: PaperOffice
   category: Items
   cost: 0
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: N14LoadoutPaper
   items:
     - PaperOffice
     
