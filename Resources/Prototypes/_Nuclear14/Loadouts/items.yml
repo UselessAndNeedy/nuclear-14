@@ -244,6 +244,47 @@
 
 # Food
 - type: loadout
+  id: Pen
+  category: Items
+  cost: 0
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: N14LoadoutPen
+  items:
+    - Pen
+
+- type: loadout
+  id: LuxuryPen
+  category: Items
+  cost: 1
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: N14LoadoutPen
+  items:
+    - LuxuryPen
+
+- type: loadout
+  id: LuxuryPen
+  category: Items
+  cost: 1
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: N14LoadoutPaper
+  items:
+    - Paper
+
+- type: loadout
+  id: LuxuryPen
+  category: Items
+  cost: 1
+  requirements:
+    - !type:CharacterItemGroupRequirement
+      group: N14LoadoutPaper
+  items:
+    - PaperOffice
+    
+# Food
+- type: loadout
   id: N14LoadoutFoodPorkBeans
   category: Items
   cost: 1
