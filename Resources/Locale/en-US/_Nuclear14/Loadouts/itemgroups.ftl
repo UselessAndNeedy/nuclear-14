@@ -13,3 +13,5 @@ character-item-group-N14LoadoutShoes = Shoes
 character-item-group-N14LoadoutAmmoBig = Big Ammo
 character-item-group-N14LoadoutAmmoBox = Ammo Box
 character-item-group-N14LoadoutGunsBig = Big Guns
+character-item-group-N14LoadoutPen = Pens
+character-item-group-N14LoadoutPaper = Paper
