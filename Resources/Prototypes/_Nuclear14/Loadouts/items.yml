@@ -242,7 +242,7 @@
   items:
     - BarberScissors
 
-# Food
+# Writables
 - type: loadout
   id: Pen
   category: Items
@@ -264,7 +264,7 @@
     - LuxuryPen
 
 - type: loadout
-  id: LuxuryPen
+  id: Paper
   category: Items
   cost: 1
   requirements:
@@ -274,7 +274,7 @@
     - Paper
 
 - type: loadout
-  id: LuxuryPen
+  id: PaperOffice
   category: Items
   cost: 1
   requirements:
