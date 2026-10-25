@@ -25,19 +25,3 @@
       id: N14LoadoutItemLighterCheap
     - type: loadout
       id: N14LoadoutItemMatches
-
-- type: characterItemGroup
-  id: N14LoadoutPen
-  items:
-    - type: loadout
-      id: Pen
-    - type: loadout
-      id: LuxuryPen
-
-- type: characterItemGroup
-  id: N14LoadoutPaper
-  items:
-    - type: loadout
-      id: Paper
-    - type: loadout
-      id: PaperOffice
